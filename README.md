@@ -1,38 +1,41 @@
-<!-- ================= HEADER BANNER ================= -->
+<!-- =============== ANIMATED HEADER BANNER =============== -->
 
 <div align="center">
 
-<img src="a_wide_dark_neon_tech_styled_github_profile_bann.png"
-width="100%" />
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:005bea,100:00c6fb&height=200&section=header&text=AWS%20CLOUD%20%7C%20DEVOPS&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=BUILD%20%7C%20AUTOMATE%20%7C%20DEPLOY%20%7C%20SECURE&descSize=15&descAlignY=60"/>
 
 </div>
 
-<br>
-
-<!-- ================= ANIMATED NAME ================= -->
+<!-- =============== PROFILE PHOTO =============== -->
 
 <div align="center">
 
-<a href="https://github.com/Naren-cyber-max">
+<img src="narendra-profile.png"
+width="180"
+alt="Polla Narendra"
+style="border-radius:50%;"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=POLLA+NARENDRA;AWS+DEVOPS+ENGINEER;CLOUD+SECURITY+ENTHUSIAST"
-alt="Animated Name" />
+<br>
 
-</a>
+<h1>POLLA NARENDRA</h1>
 
-<h3>
-☁️ BUILD • AUTOMATE • DEPLOY • SECURE
-</h3>
+<h3>Computer Science Engineering | AWS Cloud | DevOps | Cybersecurity</h3>
+
+<!-- =============== ANIMATED ROLE TEXT =============== -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;CLOUD+SECURITY+ENTHUSIAST;CYBERSECURITY+ENTHUSIAST;AUTOMATION+%26+CI%2FCD+LEARNER"
+alt="Animated Roles"/>
 
 <p>
-Learning Today | Engineering Tomorrow
+☁️ Learning Today | Building Tomorrow 🚀
 </p>
 
 </div>
 
 <br>
 
-<!-- ================= SOCIAL LINKS ================= -->
+<!-- =============== SOCIAL LINKS =============== -->
 
 <div align="center">
 
@@ -40,8 +43,8 @@ Learning Today | Engineering Tomorrow
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/pollanarendra3/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/Naren-cyber-max">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://polla-narendra-portfolio.lovable.app">
@@ -58,129 +61,152 @@ Learning Today | Engineering Tomorrow
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- =============== ABOUT ME =============== -->
 
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
-<p align="center">
+<div align="center">
 
-🎓 Final-year B.Tech Computer Science student specializing in
-Cyber Security, IoT & Blockchain Technology.
+🎓 Final-Year B.Tech Computer Science Engineering Student (2027).
 
 ☁️ Interested in AWS Cloud, DevOps Engineering and Cloud Security.
 
-🔬 Developing XAI-SecOps+, an explainable hybrid deep learning
-and SOAR-integrated framework for zero-day cloud threat mitigation.
+⚙️ Learning cloud infrastructure, automation, CI/CD and containerization.
 
-🌱 Currently learning Jenkins, Terraform, Kubernetes, Burp Suite
-and SIEM technologies.
+🔐 Exploring cybersecurity, threat detection and security automation.
+
+🔬 Developing XAI-SecOps+ as my final-year research project.
 
 💼 Internship experience with APSSDC and Slash Mark.
 
-🎯 Goal: Become an AWS Cloud & DevOps Engineer.
+🎯 Aspiring AWS Cloud & DevOps Engineer.
 
-</p>
+</div>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- =============== TECH STACK =============== -->
 
-<h2 align="center">🛠️ TECH STACK & TECHNOLOGIES</h2>
+<h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
 
-<h3 align="center">☁️ AWS CLOUD</h3>
+<h3 align="center">☁️ AWS CLOUD TECHNOLOGIES</h3>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD3444?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-</p>
+</div>
+
+<br>
 
 <h3 align="center">⚙️ DEVOPS & AUTOMATION</h3>
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,githubactions,jenkins,terraform,kubernetes"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,jenkins,terraform,kubernetes,bash"/>
 
-</p>
+</div>
+
+<br>
 
 <h3 align="center">🔐 CYBERSECURITY & NETWORKING</h3>
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=kali,linux"/>
 
+<br><br>
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
-</p>
+</div>
 
-<h3 align="center">💻 PROGRAMMING LANGUAGES</h3>
+<br>
 
-<p align="center">
+<h3 align="center">💻 PROGRAMMING & DATABASES</h3>
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,javascript,mysql"/>
 
-</p>
+</div>
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+<!-- =============== FEATURED PROJECTS =============== -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-### 🛡️ 1. XAI-SecOps+ — Final Year Research Project
+<h3>🛡️ 1. XAI-SecOps+ | Final Year Research Project</h3>
 
-**Explainable AI-Based Cloud Threat Detection & Autonomous Response**
+<b>Explainable AI-Based Cloud Threat Detection & Autonomous Response</b>
 
+- Hybrid Deep Learning Architecture.
 - Denoising Autoencoder and Transformer Encoder.
 - SHAP and LIME explainability.
 - AWS CloudTrail security monitoring.
-- SOAR-integrated response framework.
+- SOAR-integrated autonomous response framework.
 - Zero-day threat mitigation research.
 
-### ☁️ 2. AWS Cloud Infrastructure & Monitoring
+<br>
 
-- EC2 and VPC infrastructure deployment.
-- IAM access management.
-- S3 storage configuration.
+<h3>☁️ 2. AWS Cloud Monitoring & Automated Deployment</h3>
+
+- AWS EC2 infrastructure deployment.
+- VPC and IAM configuration.
+- Amazon S3 storage.
 - CloudWatch monitoring and alarms.
 - SNS notification integration.
-- CloudTrail auditing.
+- CloudTrail security auditing.
 
-### 🐳 3. Docker Containerization
+<a href="https://github.com/Naren-cyber-max/cloud-monitoring-devops-project">
+View Project →
+</a>
+
+<br><br>
+
+<h3>🐳 3. Docker Containerization</h3>
 
 - Docker image creation.
 - Custom Dockerfiles.
 - Docker Compose.
-- Linux container deployment.
+- Linux container management.
+- Containerization fundamentals.
 
-### 🔄 4. CI/CD Pipeline Automation
+<br>
+
+<h3>🔄 4. CI/CD Automation Learning</h3>
 
 - Git and GitHub version control.
-- CI/CD workflow concepts.
-- GitHub Actions automation practice.
+- CI/CD pipeline fundamentals.
+- GitHub Actions workflow learning.
+- Continuous Integration and Deployment concepts.
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- =============== GITHUB ANALYTICS =============== -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=Naren-cyber-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Naren-cyber-max&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="48%"
+<img width="49%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naren-cyber-max&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -196,19 +222,20 @@ src="https://streak-stats.demolab.com?user=Naren-cyber-max&theme=tokyonight&hide
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- =============== CONTRIBUTION GRAPH =============== -->
 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naren-cyber-max&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Naren-cyber-max&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-<!-- ================= PROFILE VISITORS ================= -->
+<!-- =============== PROFILE VISITORS =============== -->
 
 <h2 align="center">👀 PROFILE VISITORS</h2>
 
@@ -220,18 +247,21 @@ src="https://streak-stats.demolab.com?user=Naren-cyber-max&theme=tokyonight&hide
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- =============== FOOTER =============== -->
 
 <div align="center">
 
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:005bea,100:00c6fb&height=120&section=footer&animation=twinkling"/>
+
 <h3>🌟 DREAM BIG • BUILD BIGGER • NEVER STOP LEARNING</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+Build+Something+Amazing!"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&height=50&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing"/>
 
-/>
+<br>
 
-<br><br>
+<b>POLLA NARENDRA</b>
 
-**Polla Narendra | AWS Cloud • DevOps • Cybersecurity**
+AWS CLOUD | DEVOPS | CYBERSECURITY
 
 </div>
