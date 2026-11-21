@@ -1,67 +1,68 @@
-<!-- =============== ANIMATED HEADER BANNER =============== -->
+<!-- ================================================= -->
+<!--                  HEADER BANNER                    -->
+<!-- ================================================= -->
 
 <div align="center">
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:005bea,100:00c6fb&height=200&section=header&text=AWS%20CLOUD%20%7C%20DEVOPS&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=BUILD%20%7C%20AUTOMATE%20%7C%20DEPLOY%20%7C%20SECURE&descSize=15&descAlignY=60"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,40:005bea,100:00c6fb&height=220&section=header&text=POLLA%20NARENDRA&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AWS%20CLOUD%20%7C%20DEVOPS%20%7C%20CYBERSECURITY&descSize=17&descAlignY=60"/>
 
-</div>
+<br>
 
-<!-- =============== PROFILE PHOTO =============== -->
+<!-- PROFILE PHOTO -->
 
-<div align="center">
-
-<img src="narendra-profile.png"
-width="180"
+<img
+src="file_0000000019dc8211877186689dd5b27e.png"
+width="190"
 alt="Polla Narendra"
-style="border-radius:50%;"/>
+ />
 
-<br>
+<br><br>
 
-<h1>POLLA NARENDRA</h1>
+<h2>POLLA NARENDRA</h2>
 
-<h3>Computer Science Engineering | AWS Cloud | DevOps | Cybersecurity</h3>
+<!-- ANIMATED PROFESSIONAL ROLES -->
 
-<!-- =============== ANIMATED ROLE TEXT =============== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;CLOUD+SECURITY+ENTHUSIAST;CYBERSECURITY+ENTHUSIAST;BUILDING+%7C+AUTOMATING+%7C+SECURING"
+alt="Professional Roles"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=650&height=60&lines=AWS+CLOUD+ENGINEER;DEVOPS+ENGINEER;CLOUD+SECURITY+ENTHUSIAST;CYBERSECURITY+ENTHUSIAST;AUTOMATION+%26+CI%2FCD+LEARNER"
-alt="Animated Roles"/>
+<h3>☁️ BUILD • AUTOMATE • DEPLOY • SECURE</h3>
 
-<p>
-☁️ Learning Today | Building Tomorrow 🚀
-</p>
+<p>Learning Today | Engineering Tomorrow 🚀</p>
 
 </div>
 
 <br>
 
-<!-- =============== SOCIAL LINKS =============== -->
+<!-- ================================================= -->
+<!--                   SOCIAL LINKS                     -->
+<!-- ================================================= -->
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/narendra-polla-46b9b22b4/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Naren-cyber-max">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/narendra-polla-46b9b22b4/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://polla-narendra-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="mailto:pollanarendra3@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
 
-<br>
-
 ---
 
-<!-- =============== ABOUT ME =============== -->
+<!-- ================================================= -->
+<!--                    ABOUT ME                        -->
+<!-- ================================================= -->
 
 <h2 align="center">👨‍💻 ABOUT ME</h2>
 
@@ -71,9 +72,11 @@ alt="Animated Roles"/>
 
 ☁️ Interested in AWS Cloud, DevOps Engineering and Cloud Security.
 
-⚙️ Learning cloud infrastructure, automation, CI/CD and containerization.
+⚙️ Learning Cloud Infrastructure, Automation and CI/CD.
 
-🔐 Exploring cybersecurity, threat detection and security automation.
+🐳 Hands-on practice with Linux, Docker and Git/GitHub.
+
+🔐 Exploring Cybersecurity, Network Security and Threat Detection.
 
 🔬 Developing XAI-SecOps+ as my final-year research project.
 
@@ -85,11 +88,15 @@ alt="Animated Roles"/>
 
 ---
 
-<!-- =============== TECH STACK =============== -->
+<!-- ================================================= -->
+<!--                  TECH STACK                        -->
+<!-- ================================================= -->
 
-<h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
+<h2 align="center">🛠️ TECH STACK & TECHNOLOGIES</h2>
 
-<h3 align="center">☁️ AWS CLOUD TECHNOLOGIES</h3>
+<!-- AWS -->
+
+<h3 align="center">☁️ AWS CLOUD</h3>
 
 <div align="center">
 
@@ -97,8 +104,8 @@ alt="Animated Roles"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/IAM-DD3444?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -109,15 +116,19 @@ alt="Animated Roles"/>
 
 <br>
 
+<!-- DEVOPS -->
+
 <h3 align="center">⚙️ DEVOPS & AUTOMATION</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,jenkins,terraform,kubernetes,bash"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,githubactions,jenkins,terraform,kubernetes"/>
 
 </div>
 
 <br>
+
+<!-- CYBERSECURITY -->
 
 <h3 align="center">🔐 CYBERSECURITY & NETWORKING</h3>
 
@@ -129,12 +140,14 @@ alt="Animated Roles"/>
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
 </div>
 
 <br>
+
+<!-- PROGRAMMING -->
 
 <h3 align="center">💻 PROGRAMMING & DATABASES</h3>
 
@@ -146,7 +159,9 @@ alt="Animated Roles"/>
 
 ---
 
-<!-- =============== FEATURED PROJECTS =============== -->
+<!-- ================================================= -->
+<!--                   PROJECTS                         -->
+<!-- ================================================= -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
@@ -154,50 +169,48 @@ alt="Animated Roles"/>
 
 <b>Explainable AI-Based Cloud Threat Detection & Autonomous Response</b>
 
-- Hybrid Deep Learning Architecture.
 - Denoising Autoencoder and Transformer Encoder.
-- SHAP and LIME explainability.
-- AWS CloudTrail security monitoring.
-- SOAR-integrated autonomous response framework.
-- Zero-day threat mitigation research.
+- SHAP and LIME Explainability.
+- AWS CloudTrail Security Monitoring.
+- SOAR-Integrated Response Framework.
+- Zero-Day Threat Mitigation Research.
 
 <br>
 
-<h3>☁️ 2. AWS Cloud Monitoring & Automated Deployment</h3>
+<h3>☁️ 2. Cloud Monitoring & Automated Deployment on AWS</h3>
 
-- AWS EC2 infrastructure deployment.
-- VPC and IAM configuration.
-- Amazon S3 storage.
-- CloudWatch monitoring and alarms.
-- SNS notification integration.
-- CloudTrail security auditing.
+- AWS EC2 Infrastructure.
+- VPC and IAM Configuration.
+- Amazon S3 Storage.
+- CloudWatch Monitoring and Alarms.
+- SNS Notifications.
+- CloudTrail Security Auditing.
 
-<a href="https://github.com/Naren-cyber-max/cloud-monitoring-devops-project">
-View Project →
-</a>
+🔗 <a href="https://github.com/Naren-cyber-max/cloud-monitoring-devops-project">View GitHub Repository</a>
 
 <br><br>
 
 <h3>🐳 3. Docker Containerization</h3>
 
-- Docker image creation.
+- Docker Image Creation.
 - Custom Dockerfiles.
 - Docker Compose.
-- Linux container management.
-- Containerization fundamentals.
+- Linux Container Management.
 
 <br>
 
 <h3>🔄 4. CI/CD Automation Learning</h3>
 
-- Git and GitHub version control.
-- CI/CD pipeline fundamentals.
-- GitHub Actions workflow learning.
-- Continuous Integration and Deployment concepts.
+- Git and GitHub Version Control.
+- CI/CD Pipeline Fundamentals.
+- GitHub Actions Learning.
+- Continuous Integration and Deployment Concepts.
 
 ---
 
-<!-- =============== GITHUB ANALYTICS =============== -->
+<!-- ================================================= -->
+<!--                  GITHUB STATS                      -->
+<!-- ================================================= -->
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -222,7 +235,9 @@ src="https://streak-stats.demolab.com?user=Naren-cyber-max&theme=tokyonight&hide
 
 ---
 
-<!-- =============== CONTRIBUTION GRAPH =============== -->
+<!-- ================================================= -->
+<!--                CONTRIBUTION GRAPH                  -->
+<!-- ================================================= -->
 
 <h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
@@ -235,7 +250,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Naren-cyber-
 
 ---
 
-<!-- =============== PROFILE VISITORS =============== -->
+<!-- ================================================= -->
+<!--                 PROFILE VISITORS                   -->
+<!-- ================================================= -->
 
 <h2 align="center">👀 PROFILE VISITORS</h2>
 
@@ -247,21 +264,25 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Naren-cyber-
 
 ---
 
-<!-- =============== FOOTER =============== -->
+<!-- ================================================= -->
+<!--                      FOOTER                        -->
+<!-- ================================================= -->
 
 <div align="center">
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:005bea,100:00c6fb&height=120&section=footer&animation=twinkling"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,40:005bea,100:00c6fb&height=140&section=footer&animation=twinkling"/>
 
-<h3>🌟 DREAM BIG • BUILD BIGGER • NEVER STOP LEARNING</h3>
+<h2>🌟 DREAM BIG • BUILD BIGGER • NEVER STOP LEARNING</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&height=50&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&height=50&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Growing!"
 
-<br>
+/>
+
+<br><br>
 
 <b>POLLA NARENDRA</b>
 
-AWS CLOUD | DEVOPS | CYBERSECURITY
+<p>AWS CLOUD | DEVOPS | CYBERSECURITY</p>
 
 </div>
