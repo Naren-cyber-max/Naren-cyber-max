@@ -1,36 +1,24 @@
-<!-- Gradient Header Banner -->
-<p align="center">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-<!-- Animated Typing Text -->
 <p align="center">
-  <a href="https://git.io">
-    <img src="https://demolab.com" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/narendra-polla-46b9b22b4">
+    <img src="https://shields.io" />
   </a>
-</p>
-
-<!-- Social & Portfolio Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/narendra-polla-46b9b22b4" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.instagram.com/pollanarendra3">
+    <img src="https://shields.io" />
   </a>
-  <a href="https://www.instagram.com/pollanarendra3" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-  <a href="https://lovable.app" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
+  <a href="https://polla-narendra-portfolio.lovable.app">
+    <img src="https://shields.io" />
   </a>
   <a href="mailto:pollanarendra3@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
+    <img src="https://shields.io" />
   </a>
 </p>
 
-<br/>
-
-<!-- Developer Illustration -->
 <p align="center">
-  <img src="https://githubusercontent.com" width="400" alt="Developer Coding Illustration" />
+  <img src="https://giphy.com" width="380" />
 </p>
 
 ---
@@ -41,7 +29,7 @@
 - ☁️ Seeking entry-level **AWS Cloud, DevOps, and Cloud Security** roles with hands-on internship experience at **APSSDC** and **Slash Mark**.
 - 🔬 Currently researching **XAI-SecOps+**, an explainable hybrid deep learning and SOAR-integrated framework for zero-day cloud threat mitigation.
 - 🌱 Currently learning **Jenkins, Terraform, Kubernetes, Burp Suite, and SIEM**.
-- 🌐 Check out my work at **[polla-narendra-portfolio.lovable.app](https://lovable.app)**.
+- 🌐 Portfolio: **[polla-narendra-portfolio.lovable.app](https://polla-narendra-portfolio.lovable.app)**
 
 ---
 
@@ -88,9 +76,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://vercel.app" height="165" alt="GitHub Stats" />
-  <img src="https://vercel.app" height="165" alt="Top Languages" />
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
 </p>
